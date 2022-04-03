@@ -1,0 +1,52 @@
+#+TITLE: Anexo Project Page
+#+AUTHOR: Kyoung Do Kim
+
+
+* Anexo
+Project measure record keeping of Connector & Adapter 
+
+** Measure Procedure
+C:\Users\tskdkim\Projects\ANEXO_2\data\Procedure\Korea Connector Cable Check Deraft_2021_09_01
+
+
+** Python Script 
+***  Data Files
+**** ANXO.xlsx
+Excel file, list of measure data
+***** Columns
+Model 
+SN 
+Date 
+Location 
+P1 Fig name 
+P2 Fig name 
+M1 Name 
+M2 name 
+Device Type 
+Description 
+Port1 Threads 
+Port1 Center 
+Port1 Outer 
+Port2 Threads 
+Port2 Center 
+Port2 Outer 
+Port1 Pin Depth 1 
+Port1 Pin Depth 2 
+Port1 Pin Depth 3 
+Port2 Pin Depth 1 
+Port2 Pin Depth 2 
+Port2 Pin Depth 3 
+s2p 
+s2p_1
+**** General Form
+Excel File, General Log file Form 
+***** Sheet Name
+Log: Log file
+Visual Inspection: Visual Inspection result 
+Pin Depth: Pin Depth measure Result. 
+Electronic: s2p measured result 
+Chart File Link
+
+
+** Python Class of Device 
+
